@@ -1,0 +1,20 @@
+{
+    "chatGPT":{
+        "verion":5,
+        "developer": "OpenAi",
+        "is_free": false,
+        "featurse": ["chatting","reserch"]
+    },
+    "MetaAi":{
+        "verion":1,
+        "developer": "Meta",
+        "is_free": false,
+        "featurse": ["chatting","reserch"]
+    },
+    "Gemini":{
+        "verion":8,
+        "developer": "Google",
+        "is_free": false,
+        "featurse": ["chatting","reserch"]
+    }
+}
