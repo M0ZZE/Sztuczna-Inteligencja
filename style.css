@@ -19,4 +19,13 @@ form{
 }
 .edt{
     background-color: cornflowerblue;
+
+}
+table,td, th,  tr {
+    border: 2px, solid, red;
+    border-collapse: collapse;
+}
+th{
+    background-color: black;
+    color: white;
 }

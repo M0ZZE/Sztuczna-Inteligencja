@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <chatGPT version="5">
+        <developer>OpenAi</developer>
+        <power_consumption>3</power_consumption>
+        <price>100</price>
+        <devlped_since>2015</devlped_since>
+    </chatGPT>
+    <MetaAi version="1">
+        <developer>Meta</developer>
+        <power_consumption>5</power_consumption>
+        <price>100</price>
+        <devlped_since>2023</devlped_since>
+    </MetaAi>
+    <Gemini verson="2">
+        <developer>Google</developer>
+        <power_consumption>8</power_consumption>
+        <price>100</price>
+        <devlped_since>2024</devlped_since>
+    </Gemini>
+</root>
